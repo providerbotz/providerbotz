@@ -1,31 +1,9 @@
-# 👋 Hi, I'm {{Your Name}} — <small>something short & memorable about you</small>
+# 👋 Hi, I'm Provider 𖤍 — <small>something short & memorable about you</small>
 
 [![Profile views](https://komarev.com/ghpvc/?username=providerbotz&color=0e75b6)](https://github.com/providerbotz)
 [![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter?style=social)](https://twitter.com/your_twitter)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-linkedin)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20work-green)](#) 
-
----
-
-A concise, friendly intro sentence or two that explains who you are and what you do. Example:  
-Full‑stack engineer, open‑source maintainer, and problem solver — I build delightful developer tools and reliable systems.
-
-- 🔭 Currently working on: **ProjectName** — a short one-line description of what it does or why it matters.
-- 🌱 I’m learning: Distributed systems, observability, and design systems
-- 👯 I’m looking to collaborate on: developer tools, CLI apps, and accessibility work
-- 💬 Ask me about: API design, Python, TypeScript, testing strategies
-- ⚡ Fun fact: I once built X in 48 hours / I collect mechanical keyboards / I love hiking
-
----
-
-## 🛠️ Core Skills
-Languages & frameworks I use most often:
-
-- Languages: **TypeScript**, **Python**, **Go**
-- Frontend: **React**, **Next.js**, **Tailwind CSS**
-- Backend: **Node.js**, **FastAPI**, **gRPC**
-- DevOps & infra: **Docker**, **Kubernetes**, **Terraform**, **GitHub Actions**
-- Testing & quality: **Jest**, **Pytest**, **Cypress**, **ESLint**
 
 ---
 
@@ -72,19 +50,6 @@ Add these if you want dynamic stats (via third‑party services). Examples:
 - Website / Portfolio: [yourwebsite.com](https://yourwebsite.com)  
 - LinkedIn: [your LinkedIn](https://www.linkedin.com/in/your-linkedin)  
 - Twitter: [@your_twitter](https://twitter.com/your_twitter)
-- 
----
-
-- ## 🔤 Languages — Overview of my repos' languages
-Below are dynamic language summaries generated from your GitHub profile.
-
-Top languages across all repos:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=providerbotz&layout=compact&theme=radical)
-
-(If you'd prefer a different theme, change the `theme=` query param — examples: dark, radical, default, merko, gruvbox, etc.)
-
-Per-repo language breakdown (optional). To show a specific repo's languages, use:
-`https://github-readme-stats.vercel.app/api/top-langs/?username=providerbotz&repo=REPO_NAME&layout=compact&theme=radical`
 
 ---
 
@@ -101,5 +66,5 @@ If you like my work, give a star to any of my projects, follow me on GitHub, or 
 ---
 
 <p align="center">
-  <em>Made with ❤️ by {{Your Name}}</em>
+  <em>Made with ❤️ by {{ProviderProviderBotz}}</em>
 </p>
