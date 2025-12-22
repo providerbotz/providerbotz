@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Provider 𖤍 — <small>something short & memorable about you</small>
+# 👋 Hi, I'm Provider 𖤍 — <small>Something Short & Memorable About You</small>
 
 [![Profile views](https://komarev.com/ghpvc/?username=providerbotz&color=0e75b6)](https://github.com/providerbotz)
 [![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter?style=social)](https://twitter.com/your_twitter)
