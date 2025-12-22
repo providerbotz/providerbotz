@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Provider 𖤍 — <small>Something Short & Memorable About You</small>
 
 [![Profile views](https://komarev.com/ghpvc/?username=providerbotz&color=0e75b6)](https://github.com/providerbotz)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter?style=social)](https://twitter.com/your_twitter)
+[![Twitter Follow](https://img.shields.io/telegram/follow/your_twitter?style=social)](https://t.me/providerbotz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-linkedin)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20work-green)](#) 
 
