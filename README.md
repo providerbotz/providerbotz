@@ -1,1 +1,107 @@
-kuch v nahu hain
+<!-- ===================== HERO SECTION ===================== -->
+<div align="center">
+
+<h1>🚀 TECHY PREMIUM PROJECTS</h1>
+
+<p>
+  <b>High Quality • Secure • Optimized • Production Ready</b><br>
+  🤖 Telegram Bots • 🌐 Web Tools • ⚙️ Automation
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=2"/>
+
+</div>
+
+---
+
+<!-- ===================== ABOUT CARD ===================== -->
+## 👤 About Developer
+
+<table>
+<tr>
+<td>
+
+- 👨‍💻 **Name:** YOUR NAME  
+- 🏷️ **Username:** `@YOUR_GITHUB_USERNAME`  
+- 🌍 **Location:** India  
+- 💼 **Role:** Bot / Full-Stack Developer  
+- 🧠 **Experience:** X+ Years  
+- 🎯 **Focus:** Premium & Secure Systems  
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram"/>
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</p>
+
+---
+
+<!-- ===================== PROJECTS GRID ===================== -->
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Status</th>
+</tr>
+
+<tr>
+<td>🔐 Premium Group Bot</td>
+<td>Advanced moderation & admin system</td>
+<td>✅ Live</td>
+</tr>
+
+<tr>
+<td>🎂 Age Calculator Bot</td>
+<td>Detailed age calculation (premium UI)</td>
+<td>✅ Stable</td>
+</tr>
+
+<tr>
+<td>📢 Broadcast System</td>
+<td>Mass messaging with safety checks</td>
+<td>🚀 Production</td>
+</tr>
+
+<tr>
+<td>🧠 Filter System</td>
+<td>Keyword-based auto replies</td>
+<td>✅ Active</td>
+</tr>
+
+</table>
+
+---
+
+<!-- ===================== PREMIUM FEATURES ===================== -->
+## 💎 Premium Standards
+
+✔️ Clean & readable code  
+✔️ Optimized performance  
+✔️ Admin & user separation  
+✔️ Error handling system  
+✔️ Secure data storage  
+✔️ Production-ready logic  
+
+---
+
+<!-- ===================== INSTALL SECTION ===================== -->
+## 📦 Installation
+
+```bash
+git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
+cd REPO_NAME
+npm install
+node index.js
