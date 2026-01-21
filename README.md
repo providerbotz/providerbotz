@@ -21,11 +21,11 @@
 <tr>
 <td>
 
-- 👨‍💻 **Name:** YOUR NAME  
-- 🏷️ **Username:** `@YOUR_GITHUB_USERNAME`  
+- 👨‍💻 **Name:** PROVIDERBOTZ  
+- 🏷️ **Username:** `@PROVIDERBOTZ`  
 - 🌍 **Location:** India  
-- 💼 **Role:** Bot / Full-Stack Developer  
-- 🧠 **Experience:** X+ Years  
+- 💼 **Role:** Bot / Developer /Tricker
+- 🧠 **Experience:** 1+ Years  
 - 🎯 **Focus:** Premium & Secure Systems  
 
 </td>
@@ -46,62 +46,3 @@
 </p>
 
 ---
-
-<!-- ===================== PROJECTS GRID ===================== -->
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<th>Project</th>
-<th>Description</th>
-<th>Status</th>
-</tr>
-
-<tr>
-<td>🔐 Premium Group Bot</td>
-<td>Advanced moderation & admin system</td>
-<td>✅ Live</td>
-</tr>
-
-<tr>
-<td>🎂 Age Calculator Bot</td>
-<td>Detailed age calculation (premium UI)</td>
-<td>✅ Stable</td>
-</tr>
-
-<tr>
-<td>📢 Broadcast System</td>
-<td>Mass messaging with safety checks</td>
-<td>🚀 Production</td>
-</tr>
-
-<tr>
-<td>🧠 Filter System</td>
-<td>Keyword-based auto replies</td>
-<td>✅ Active</td>
-</tr>
-
-</table>
-
----
-
-<!-- ===================== PREMIUM FEATURES ===================== -->
-## 💎 Premium Standards
-
-✔️ Clean & readable code  
-✔️ Optimized performance  
-✔️ Admin & user separation  
-✔️ Error handling system  
-✔️ Secure data storage  
-✔️ Production-ready logic  
-
----
-
-<!-- ===================== INSTALL SECTION ===================== -->
-## 📦 Installation
-
-```bash
-git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
-cd REPO_NAME
-npm install
-node index.js
