@@ -1,7 +1,7 @@
 <!-- ===================== HERO SECTION ===================== -->
 <div align="center">
 
-<h1>🚀 TECHY PREMIUM PROJECTS</h1>
+<h1><img src="Pixels/Images/Fire.png" width="30"> TECHY PREMIUM PROJECTS</h1>
 
 <p>
   <b>High Quality • Secure • Optimized • Production Ready</b><br>
