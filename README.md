@@ -46,7 +46,7 @@
 </p>
 
 ---
-## Github Stats <img src="assets/images/Bar Chart.png" width="30">
+## Github Stats <img src="pixel/images/Bar Chart.png" width="30">
 
 <nobr><img align="center" src="https://github-readme-stats.vercel.app/api?username=providerbotz&show_icons=true&line_height=27&count_private=true&title_color=43ffaf&text_color=e5f7ef&icon_color=43ffaf&bg_color=262a33&hide_border=true" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=providerbotz&title_color=43ffaf&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=262a33&langs_count=3" />
