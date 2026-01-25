@@ -35,7 +35,7 @@
 ---
 
 <!-- ===================== TECH STACK ===================== -->
-## 🛠️ Tech Stack
+## <img src="Pixels/Images/Rocket.png" width="30"> Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
