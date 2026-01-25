@@ -53,3 +53,4 @@
 </nobr>
 
 ---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyDeveloperr&layout=compact&theme=tokyonight" align="center">
