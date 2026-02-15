@@ -41,12 +41,17 @@
 <!-- ===================== TECH STACK ===================== -->
 ## <img src="Pixels/Images/Rocket.png" width="30"> Tech Stack
 
+<h3 align="center"><code>mostly work with:</code></h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram"/>
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="59" height="59" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="59" height="59" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="59" height="59" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="59" height="59" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="59" height="59" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/ai-icon.svg" alt="AI" width="59" height="59" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="59" height="59" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/gradle-icon.svg" alt="Gradle" width="59" height="59" />
 </p>
 
 ---
@@ -55,4 +60,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=providerbotz&theme=chartreuse-dark&hide_border=true&background=000000"/>
 </p>
----
+<div align="center">
+
+<br>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ProviderBotz&theme=ayu_mirage)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ProviderBotz&theme=ayu_mirage)
+
+</div>
