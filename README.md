@@ -11,7 +11,7 @@
   <img src="Pixels/Provider/arrow2.png" width="13%" alt="Right Image">
   <img src="Pixels/Provider/test9.gif" width="20%" alt="Center Image">
   <img src="Pixels/Provider/arrow2b.png" width="13%" alt="Right Image">
-  <img src="Pixel/Provider/blue.png" width="17%" alt="Right Image">
+  <img src="Pixels/Provider/blue.png" width="17%" alt="Right Image">
       
 </div>
 
