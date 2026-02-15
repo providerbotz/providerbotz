@@ -45,7 +45,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## <img src="Pixels/Images/Rocket.png" width="32"/> Tech Stack
 <h3 align="center"><code>Mostly Work With</code></h3>
 
 <p align="center">
@@ -59,7 +59,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## <img src="Pixels/Images/ChartBar.png" width="32"/> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProviderBotz&theme=chartreuse-dark&hide_border=true&background=000000"/>
@@ -74,7 +74,7 @@
 
 ---
 
-## 🔥 What I Build
+## <img src="Pixels/Images/Fire.png" width="32"/> What I Build
 - ✅ Premium Telegram Bots  
 - ✅ Automation Systems  
 - ✅ Secure APIs  
