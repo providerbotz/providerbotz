@@ -4,6 +4,16 @@
 </p>
 <!-- ===================== HERO SECTION ===================== -->
 <div align="center">
+</div>
+<div align="center">
+    
+  <img src="Pixels/Provider/black.png" width="17%" alt="Left Image">
+  <img src="Pixels/Provider/arrow2.png" width="13%" alt="Right Image">
+  <img src="Pixels/Provider/test9.gif" width="20%" alt="Center Image">
+  <img src="Pixels/Provider/arrow2b.png" width="13%" alt="Right Image">
+  <img src="Pixel/Provider/blue.png" width="17%" alt="Right Image">
+      
+</div>
 
 <h1><img src="Pixels/Images/Fire.png" width="30"> TECHY PREMIUM PROJECTS</h1>
 
@@ -63,14 +73,3 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ProviderBotz&theme=ayu_mirage)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ProviderBotz&theme=ayu_mirage)
-
-</div>
-<div align="center">
-    
-  <img src="Pixels/Provider/black.png" width="17%" alt="Left Image">
-  <img src="Pixels/Provider/arrow2.png" width="13%" alt="Right Image">
-  <img src="Pixels/Provider/test9.gif" width="20%" alt="Center Image">
-  <img src="Pixels/Provider/arrow2b.png" width="13%" alt="Right Image">
-  <img src="Provider/blue.png" width="17%" alt="Right Image">
-      
-</div>
