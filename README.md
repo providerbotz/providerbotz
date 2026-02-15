@@ -43,15 +43,18 @@
 
 <h3 align="center"><code>mostly work with:</code></h3>
 
+<h3 align="center"><code>Mostly Work With:</code></h3>
+
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="59" height="59" />&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="59" height="59" />&nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="59" height="59" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="59" height="59" />&nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="59" height="59" />&nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="59" height="59" />&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/ai-icon.svg" alt="AI" width="59" height="59" />&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="59" height="59" />&nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/gradle-icon.svg" alt="Gradle" width="59" height="59" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="59" height="59" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="59" height="59" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="59" height="59" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="59" height="59" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="Raspberry Pi" width="59" height="59" />
 </p>
 
 ---
