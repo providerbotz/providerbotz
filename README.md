@@ -67,10 +67,10 @@
 </div>
 <div align="center">
     
-  <img src="Provider/black.png" width="17%" alt="Left Image">
-  <img src="Provider/arrow2.png" width="13%" alt="Right Image">
-  <img src="Provider/test9.gif" width="20%" alt="Center Image">
-  <img src="Provider/arrow2b.png" width="13%" alt="Right Image">
+  <img src="Pixels/Provider/black.png" width="17%" alt="Left Image">
+  <img src="Pixels/Provider/arrow2.png" width="13%" alt="Right Image">
+  <img src="Pixels/Provider/test9.gif" width="20%" alt="Center Image">
+  <img src="Pixels/Provider/arrow2b.png" width="13%" alt="Right Image">
   <img src="Provider/blue.png" width="17%" alt="Right Image">
       
 </div>
