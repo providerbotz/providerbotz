@@ -59,7 +59,7 @@
 
 ---
 
-## <img src="Pixels/Images/ChartBar.png" width="32"/> GitHub Stats
+## <img src="Pixels/Images/Bar Chart.png" width="32"/> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProviderBotz&theme=chartreuse-dark&hide_border=true&background=000000"/>
