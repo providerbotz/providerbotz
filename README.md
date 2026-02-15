@@ -1,4 +1,4 @@
-<!-- ===================== MATRIX BANNER ===================== -->
+<!-- ===================== MATRIX BANNER SECTION ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001100&height=200&section=header&text=PROVIDERTRICK&fontSize=42&fontColor=00ff00&animation=blinking&fontAlignY=40"/>
 </p>
@@ -19,12 +19,13 @@
 
 <p align="center">
   <b>High Quality • Secure • Optimized • Production Ready</b><br><br>
-  <img src="Pixels/Images/Fire.png" width="32"/> Telegram Bots • <img src="Pixels/Images/Globe with Meridians.png" width="30"/> Web Tools • ⚙️ Automation
+  <img src="Pixels/Images/Robot.png" width="32"/> Telegram Bots • <img src="Pixels/Images/Globe with Meridians.png" width="30"/> Web Tools • ⚙️ Automation
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=3"/>
 
 ---
+<!-- ===================== ABOUT DEV...... SECTION ===================== -->
 
 ## 👤 About Developer
 
@@ -44,8 +45,9 @@
 </table>
 
 ---
+<!-- ===================== TECH STACK SECTION ===================== -->
 
-## <img src="Pixels/Images/Rocket.png" width="32"/> Tech Stack
+## <img src="Pixels/Images/Rocket.png" width="30"/> Tech Stack
 <h3 align="center"><code>Mostly Work With</code></h3>
 
 <p align="center">
@@ -58,6 +60,7 @@
 </p>
 
 ---
+<!-- ===================== GITHUB STATS SECTION ===================== -->
 
 ## <img src="Pixels/Images/Bar Chart.png" width="32"/> GitHub Stats
 
@@ -73,6 +76,7 @@
 </div>
 
 ---
+<!-- ===================== BUILD BY ME SECTION ===================== -->
 
 ## <img src="Pixels/Images/Fire.png" width="32"/> What I Build
 - <img src="Pixels/Images/Check Mark Button.png" width="30"/> Premium Telegram Bots  
@@ -82,7 +86,3 @@
 - <img src="Pixels/Images/Check Mark Button.png" width="30"/> Paid / Private Projects  
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001100,100:000000&height=120&section=footer"/>
-</p>
