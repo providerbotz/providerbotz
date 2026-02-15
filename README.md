@@ -4,8 +4,6 @@
 </p>
 <!-- ===================== HERO SECTION ===================== -->
 <div align="center">
-</div>
-<div align="center">
     
   <img src="Pixels/Provider/black.png" width="17%" alt="Left Image">
   <img src="Pixels/Provider/arrow2.png" width="13%" alt="Right Image">
