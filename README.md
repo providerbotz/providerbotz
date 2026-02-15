@@ -40,7 +40,6 @@
 
 <!-- ===================== TECH STACK ===================== -->
 ## <img src="Pixels/Images/Rocket.png" width="30"> Tech Stack
-
 <h3 align="center"><code>Mostly Work With:</code></h3>
 
 <p align="center">
