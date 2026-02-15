@@ -75,11 +75,11 @@
 ---
 
 ## <img src="Pixels/Images/Fire.png" width="32"/> What I Build
-- ✅ Premium Telegram Bots  
-- ✅ Automation Systems  
-- ✅ Secure APIs  
-- ✅ Web Tools  
-- ✅ Paid / Private Projects  
+- <img src="Pixels/Images/Check Mark Button.png" width="30"/> Premium Telegram Bots  
+- <img src="Pixels/Images/Check Mark Button.png" width="30"/> Automation Systems  
+- <img src="Pixels/Images/Check Mark Button.png" width="30"/> Secure APIs  
+- <img src="Pixels/Images/Check Mark Button.png" width="30"/> Web Tools  
+- <img src="Pixels/Images/Check Mark Button.png" width="30"/> Paid / Private Projects  
 
 ---
 
