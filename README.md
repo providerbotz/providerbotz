@@ -19,7 +19,7 @@
 
 <p align="center">
   <b>High Quality • Secure • Optimized • Production Ready</b><br><br>
-  🤖 Telegram Bots • 🌐 Web Tools • ⚙️ Automation
+  <img src="Pixels/Images/Fire.png" width="32"/> Telegram Bots • <img src="Pixels/Images/Globe with Meridians.png" width="30"/> Web Tools • ⚙️ Automation
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=3"/>
