@@ -73,7 +73,7 @@
 ## <img src="Pixels/Images/Bar Chart.png" width="32"/> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CertifiedCoders&bg_color=06040e&color=f1916d&line=bd83b8&point=bd83b8&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=providerbotz&bg_color=06040e&color=f1916d&line=bd83b8&point=bd83b8&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
