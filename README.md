@@ -81,6 +81,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ProviderBotz&theme=ayu_mirage)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ProviderBotz&theme=ayu_mirage)
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=providerbotz&bg_color=06040e&color=f1916d&line=bd83b8&point=bd83b8&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
 </div>
 
 ---
