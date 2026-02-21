@@ -1,7 +1,15 @@
-<!-- ===================== MATRIX BANNER SECTION ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:001100&height=200&section=header&text=PROVIDERTRICK&fontSize=42&fontColor=00ff00&animation=blinking&fontAlignY=40"/>
-</p>
+<!-- ==================== 2. Avatar + Dynamic Typing Bio ==================== -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="100px" align="center">
+        <img src="IMG.png" width="90px" style="border-radius: 50%; border: 3px solid #bd83b8;" alt="Lazy Provider" />
+      </td>
+      <td>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I'm+Lazy+Provider;Building+Tools%2C+Websites+%26+Bots;Telegram+Bot+Expert+%7C+Python+%7C+JS+%7C+C%2B%2B;Let's+create+something+awesome!;" alt="Typing SVG" />
+      </td>
+    </tr>
+  </table>
 
 <!-- ===================== HERO SECTION ===================== -->
 <div align="center">
