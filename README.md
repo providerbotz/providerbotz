@@ -32,7 +32,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=3"/>
 
----
 <!-- ===================== ABOUT DEV...... SECTION ===================== -->
 
 ## 👤 About Developer
@@ -51,8 +50,6 @@
 </td>
 </tr>
 </table>
-
----
 <!-- ===================== TECH STACK SECTION ===================== -->
 
 ## <img src="Pixels/Images/Rocket.png" width="30"/> Tech Stack
@@ -67,7 +64,6 @@
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="55"/>
 </p>
 
----
 <!-- ===================== GITHUB STATS SECTION ===================== -->
 
 ## <img src="Pixels/Images/Bar Chart.png" width="32"/> GitHub Stats
@@ -85,8 +81,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ProviderBotz&theme=ayu_mirage)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ProviderBotz&theme=ayu_mirage)
 
-
----
 <!-- ===================== BUILD BY ME SECTION ===================== -->
 
 ## <img src="Pixels/Images/Fire.png" width="32"/> What I Build
@@ -95,5 +89,3 @@
 - <img src="Pixels/Images/Check Mark Button.png" width="30"/> Secure APIs  
 - <img src="Pixels/Images/Check Mark Button.png" width="30"/> Web Tools  
 - <img src="Pixels/Images/Check Mark Button.png" width="30"/> Paid / Private Projects  
-
----
