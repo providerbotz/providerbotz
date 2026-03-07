@@ -1,3 +1,7 @@
+<!-- ==================== 1. Animated Header ==================== -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
+</p>
 <!-- ==================== 2. Avatar + Dynamic Typing Bio ==================== -->
 <div align="center">
   <table>
@@ -89,3 +93,9 @@
 - <img src="Pixels/Images/Check Mark Button.png" width="30"/> Secure APIs  
 - <img src="Pixels/Images/Check Mark Button.png" width="30"/> Web Tools  
 - <img src="Pixels/Images/Check Mark Button.png" width="30"/> Paid / Private Projects  
+
+<!-- ==================== 10. Closing Divider ==================== -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
+</p>
+
