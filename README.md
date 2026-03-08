@@ -92,7 +92,21 @@
 - <img src="Pixels/Images/Check Mark Button.png" width="30"/> Automation Systems  
 - <img src="Pixels/Images/Check Mark Button.png" width="30"/> Secure APIs  
 - <img src="Pixels/Images/Check Mark Button.png" width="30"/> Web Tools  
-- <img src="Pixels/Images/Check Mark Button.png" width="30"/> Paid / Private Projects  
+- <img src="Pixels/Images/Check Mark Button.png" width="30"/> Paid / Private Projects
+
+## 👁 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=providerbotz&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/providerbotz/prividerbotz/output/github-contribution-grid-snake.svg" />
+</p>
 
 <!-- ==================== 10. Closing Divider ==================== -->
 <p align="center">
