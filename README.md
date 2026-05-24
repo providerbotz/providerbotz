@@ -89,13 +89,6 @@
 
 <!-- ===================== BUILD BY ME SECTION ===================== -->
 
-## <img src="Pixels/Images/Fire.png" width="32"/> What I Build
-- <img src="Pixels/Images/Check Mark Button.png" width="30"/> Premium Telegram Bots  
-- <img src="Pixels/Images/Check Mark Button.png" width="30"/> Automation Systems  
-- <img src="Pixels/Images/Check Mark Button.png" width="30"/> Secure APIs  
-- <img src="Pixels/Images/Check Mark Button.png" width="30"/> Web Tools  
-- <img src="Pixels/Images/Check Mark Button.png" width="30"/> Paid / Private Projects
-
 ## 👁 Visitors
 
 <p align="center">
