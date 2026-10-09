@@ -103,3 +103,9 @@
 <!-- ==================== 10. Closing Divider ==================== -->
 [<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=%E1%B4%98%CA%80%E1%B4%8F%E1%B4%A0%C9%AA%E1%B4%85%E1%B4%87%CA%80%CA%99%E1%B4%8F%E1%B4%9B%E1%B4%A2&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 ](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&section=header&reversal=false&text=PROVIDERBOTZ&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
+
+<!--
+> [!IMPORTANT]
+> **General Notice:** The projects linked from this profile are provided for their stated purposes. Users are responsible for using them lawfully and in accordance with applicable terms, licenses, and permissions.
+-->
+
