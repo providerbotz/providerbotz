@@ -44,7 +44,7 @@
 <tr>
 <td>
 
-- 👨‍💻 **Name:** PROVIDERBOTZ  
+- 👨‍💻 **Name:** PROVIDER  
 - 🏷️ **Username:** `@PROVIDERBOTZ`  
 - 🌍 **Location:** India  
 - 💼 **Role:** Bot Developer • Web Developer • Tricker  
@@ -73,10 +73,6 @@
 ## <img src="Pixels/Images/Bar Chart.png" width="32"/> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=providerbotz&bg_color=06040e&color=f1916d&line=bd83b8&point=bd83b8&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ProviderBotz&theme=chartreuse-dark&hide_border=true&background=000000"/>
 </p>
 <p align="center">
@@ -96,9 +92,7 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%E1%B4%85%E1%B4%8F%C9%B4%E1%B4%9B%20%E1%B4%9B%CA%80%E1%B4%9Cs%E1%B4%9B%20%E1%B4%8D%E1%B4%87%20%C9%AA%20%E1%B4%80%E1%B4%8D%20%E1%B4%A0%E1%B4%87%CA%8F%20%CA%9F%E1%B4%80%E1%B4%A2%CA%8F%20!" alt="Typing introduction" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=077E20&center=true&width=435&lines=+%E1%B4%85%E1%B4%8F%C9%B4%E1%B4%9B+%E1%B4%9B%CA%80%E1%B4%9Cs%E1%B4%9B+%E1%B4%8D%E1%B4%87+%C9%AA+%E1%B4%80%E1%B4%8D+%E1%B4%A0%E1%B4%87%CA%80%CA%8F+%CA%9F%E1%B4%80%E1%B4%A2%CA%8F+" alt="Typing SVG" /></a>
 <!-- ==================== contribution snake  ==================== -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
@@ -107,4 +101,5 @@
 </picture>
 
 <!-- ==================== 10. Closing Divider ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=%E1%B4%98%CA%80%E1%B4%8F%E1%B4%A0%C9%AA%E1%B4%85%E1%B4%87%CA%80%CA%99%E1%B4%8F%E1%B4%9B%E1%B4%A2&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
+[<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=%E1%B4%98%CA%80%E1%B4%8F%E1%B4%A0%C9%AA%E1%B4%85%E1%B4%87%CA%80%CA%99%E1%B4%8F%E1%B4%9B%E1%B4%A2&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
+](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&section=header&reversal=false&text=PROVIDERBOTZ&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=twinkling&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
